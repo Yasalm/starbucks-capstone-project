@@ -5,7 +5,7 @@
 
 
 # Installation 
-- Anaconda disrtbution with python vesion of 3^.
+- Anaconda disrtbution with python vesion of 3^ will suffice.
 
 # Project Motivation
 It is a capstone project from my nanadegree programm,
