@@ -12,7 +12,7 @@ It is a capstone project from my nanadegree programm,
 My aim is to build a model that can predict whether a customer is going to complete an offer sent to them by starbucks
 
 # File Description
-The notebook lays out my approac
+The notebook lays out my approach
 This data set is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 The data is contained in three files:
 
@@ -22,13 +22,12 @@ The data is contained in three files:
 - Here is the schema and explanation of each variable in the files:
 
 - portfolio.json
-
-id (string) - offer id
-offer_type (string) - the type of offer ie BOGO, discount, informational
-difficulty (int) - the minimum required to spend to complete an offer
-reward (int) - the reward is given for completing an offer
-duration (int) - time for the offer to be open, in days
-channels (list of strings)
+-  id (string) - offer id
+- offer_type (string) - the type of offer ie BOGO, discount, informational
+- difficulty (int) - the minimum required to spend to complete an offer
+- reward (int) - the reward is given for completing an offer
+- duration (int) - time for the offer to be open, in days
+- channels (list of strings)
 
 - profile.json
 
