@@ -1,5 +1,5 @@
 
-# Data Scientist nano degree
+# Data Scientist Nano Degree
 
 ##  starbucks-capstone-project
 
@@ -43,6 +43,6 @@ Here is the schema and explanation of each variable in the files:
   - value - (dict of strings) - either an offer id or transaction amount depending on the record
 
 # Results and Insights
-Results can be found [here](https://medium.com/@yasir.masad/analyzing-starbucks-offers-in-python-f4c40cf0d791)
+Results can be found in Notebook and [here](https://medium.com/@yasir.masad/analyzing-starbucks-offers-in-python-f4c40cf0d791)
 # Acknowledgements
 Credit goes to udacity and starbucks for providing the data
